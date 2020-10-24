@@ -1,0 +1,58 @@
+site_name: Purnur Agiacai Schneider
+site_url: "https://purnur.schneider.github.io"
+site_description: "My personal page"
+# strict: true
+docs_dir: "docs"
+remote_branch: "master"
+theme:
+  name: material
+  palette:
+    primary: "indigo"
+    accent: "amber"
+  icon:
+    logo: material/library
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/purnuragiacaischneider/
+markdown_extensions:
+  - codehilite
+  - footnotes
+  - admonition
+  - toc:
+      permalink: true
+  - markdown.extensions.smarty
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      repo_url_shortener: true
+      user: polyfem
+      repo: polyfem
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+plugins1:
+  - mknotebooks:
+      execute: true
+      preamble: "docs/plotly_to_md.py"
+      timeout: -1
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
+nav:
+  - About Me: index.md
+  - Why Should You Hire Me?: hireme.md
+  - Research:
+      - Highlights: research1.md
+      - Academic: researchSSRN.md
+      - Insch CM: research0.md
