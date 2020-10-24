@@ -1,12 +1,10 @@
-![](img/P_lowres.png)          [![](img/CV.png)](webdocs/CV.pdf)
+![](img/P_lowres.png)          [My CV](webdocs/CV.pdf)
 
 
-I have almost 15 years work experience, of which 9 in the alternative investment sector. 
+I have almost 15 years work experience, of which nine in the alternative investment sector. 
 
 My most important role so far has been Head of Research with Insch Capital Management SA, in Lugano, Switzerland.
-
-[Press article about Insch](link?)
-
+<!-- [Press article about Insch](link?) -->
 I initially joined InschQuantrend, the research arm of Insch, in Dec.2010, and subsequently moved to Insch Capital Management. As Head of Research I have coordinated research and reporting, back-tested investment ideas performance, prepared client presentations and marketing materials, performed NAV reconciliation and risk analysis on multiple asset classes. 
 
 Our research was often published or mentioned in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  

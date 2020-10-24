@@ -34,8 +34,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
       repo_url_shortener: true
-      user: polyfem
-      repo: polyfem
+      user: Purnur01
+      repo: Purnur01
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
@@ -54,5 +54,8 @@ nav:
   - Why Should You Hire Me?: hireme.md
   - Research:
       - Highlights: research1.md
-      - Academic: researchSSRN.md
       - Insch CM: research0.md
+      - Academic: researchSSRN.md
+  - Continous Education:
+      - Online courses: courses.md
+      - Python: research2.md

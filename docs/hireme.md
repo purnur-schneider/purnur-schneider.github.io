@@ -14,7 +14,7 @@
 
 I am available for employment starting in February 2021, when I shall move with my family to Victoria, BC, as my husband starts a Professor position with UVic. There, I wish to resume my career in finance after a break caused by my temporary move to the US. 
 
-#### Q&A
+<!-- #### Q&A
 
 1.How would you describe your approach to client service?
  
@@ -108,4 +108,4 @@ My CEO told me: we are not in the business of managing people, we are in the bus
 
 14. 
 
-15. 
+15.  -->
