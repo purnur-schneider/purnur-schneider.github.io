@@ -11,7 +11,7 @@
 
 #### Omega measure based on the Kernel Distribution
 
-The Omega measure provides as a way to describe the holistic disribution of performance across strategies or benchmarks. At Insch, we used Omega in logarithmic form and in combination with the kernel distribution of returns, for smoother and more general results. In addition, by inverting the axes of the Omega versus returns graph we obtain a more intuitive view of performance profiles, which makes it easier to make comparisons bewtween investments.
+The Omega measure provides as a way to describe the holistic disribution of performance across strategies or benchmarks. At Insch, we used Omega in logarithmic form and in combination with the kernel distribution of returns, for smoother and more general results. In addition, by inverting the axes of the Omega versus returns graph we obtain a more intuitive view of the performance domain, which makes it easier to make comparisons bewtween investments.
 
 ![](img/OmegaPlot.png)
 
@@ -40,3 +40,5 @@ vice versa.
 - I have performed Returns-Based-Style-Analysis, to track eventual style drift by individual foreign exchange managers. The results are however strongly affected by the choice of benchmarks for style. 
 
 - I have decomposed total portfolio variance to assess the individual contributions risk of individual asset managers. This decomposition leads to an easy and straightforward portfolio allocation among managers in a minimum risk portfolio, by equalizing the risk contributions across managers. 
+
+- I have written practical guides for using statistical measures such as Omega, Ljung-Box and Jarque-Bera, and F-tests.

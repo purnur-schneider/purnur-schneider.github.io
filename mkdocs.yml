@@ -1,5 +1,5 @@
 site_name: Purnur Agiacai Schneider
-site_url: "https://purnur.schneider.github.io"
+site_url: "https://purnur-schneider.github.io"
 site_description: "My personal page"
 # strict: true
 docs_dir: "docs"
@@ -44,8 +44,7 @@ markdown_extensions:
   - pymdownx.tilde
 plugins1:
   - mknotebooks:
-      execute: true
-      preamble: "docs/plotly_to_md.py"
+      execute: false
       timeout: -1
 extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
@@ -58,4 +57,11 @@ nav:
       - Academic: researchSSRN.md
   - Continous Education:
       - Online courses: courses.md
-      - Python: research2.md
+      - Python projects: 
+          - MA Trend Strategy: MA FX Strategy.html
+          - Stochastic Processes - GBM: Stochastic Processes - GBM.html
+          - Stochastic Processes - Vasicek: Vasicek Model.html
+          - AR(2) for Short Interest Rates: AR(2) model.html
+          - Square-Root Diffusion (in progress): Square-Root Diffusion.html
+          - Stochastic Volatility Model: Stochastic Volatility.html
+
