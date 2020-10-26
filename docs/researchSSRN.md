@@ -8,7 +8,7 @@ I wrote several term papers and research articles while studying. I published on
 [Asset Pricing and the Consumption-Investment Allocation Under Robustness and Short Sales Constraints, Using Martingale Methods](https://ssrn.com/abstract=935033) (124 Downloads)
 > I thank my former colleague, Dr. Mesrop Janunts, for his bibliography recommendations.
 
-"Working in the Shadows: A Study on the Determinants of Labor Supply in the Informal Economy in Romania", CEU Master Thesis (http://www.econus.ma.ceu.hu/?q=node/5)
+"Working in the Shadows: A Study on the Determinants of Labor Supply in the Informal Economy in Romania", CEU Master Thesis (http://www.econus.ma.ceu.hu/?q=node/5), June 2003
 > Thanks to my Labor Project and thesis supervisor, Prof. John Earle.
 
 > My belated thanks to my late colleague, Stano Vidovic, a brilliant mind and a great person. 
