@@ -58,7 +58,7 @@ nav:
   - Continous Education:
       - Online courses: courses.md
       - Python projects: 
-          - MA Trend Strategy: MA FX Strategy.html
+          - In-sample vs. Out-of-Sample backtesting: IS versus OS Testing.html
           - Stochastic Processes - GBM: Stochastic Processes - GBM.html
           - Stochastic Processes - Vasicek: Vasicek Model.html
           - AR(2) for Short Interest Rates: AR(2) model.html

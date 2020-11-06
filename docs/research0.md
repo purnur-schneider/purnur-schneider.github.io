@@ -16,7 +16,7 @@ Insch Capital Management produced and released research articles on a quasi-regu
 [FX Week Quarterly, Dec.2012-Feb.2013, "Responding to Change"](webdocs/FX Invest Quarterly Research - Responding to change.pdf)
 > Where we apply the Black-Litterman model to build a dynamic portfolio of trading strategies.
 
-[Profit & Loss, Sep.2012, "The Swiss Emmentaler Trade: A Strategy with Holes"](webdocs/Profit_Loss_Insch EMMENTALER TRADE 2012.09)
+[Profit & Loss, Sep.2012, "The Swiss Emmentaler Trade: A Strategy with Holes"](webdocs/Profit_Loss_Insch EMMENTALER TRADE 2012.09.pdf)
 > Reported by Financial News, [“The currency mountain with more holes than a Swiss cheese”](webdocs/The currency mountain with more holes than a Swiss cheese.pdf)
 
 <!--[Global Money Management, Apr.2012, “Research Predicts Interest Rate Increase, Bond Losses”](webdocs/link?)-->
