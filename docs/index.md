@@ -1,18 +1,16 @@
 <img src="img/P_lowres.png" width=240px; style="float: left;margin-right: 10px"/>
-I have almost 15 years work experience, of which nine in the alternative investment sector. 
-> For more information you may download [my CV](webdocs/CV.pdf).
+I just moved to Victoria BC, with a work permit, and I wish to re-enter the job market, after a break caused by my temporary stay in NY. 
 
-My most important role so far has been Head of Research with Insch Capital Management SA, in Lugano, Switzerland. I initially joined InschQuantrend, the research arm of Insch, in Dec.2010, and subsequently moved to Insch Capital Management. 
+I have almost 15 years work experience, of which nine in the alternative investment sector. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
 
-As Head of Research I have coordinated research and reporting, back-tested investment ideas performance, prepared client presentations and marketing materials, performed NAV reconciliation and risk analysis on multiple asset classes.
+> You may download [my CV](webdocs/CV.pdf).
 
-Our research was often published or mentioned in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
+My previous position was Head of Research with Insch Capital Management SA, in Lugano, Switzerland.
+In this role I coordinated research and reporting, prepared client presentations and marketing materials, back-tested investment ideas, built trading strategies, performed NAV reconciliation, client support, and performance/risk analysis.
 
-Previously, I have worked as Senior Financial Analyst for pension fund investments with DL Investment Partners in Zug, Switzerland. In that position I have performed manager selection, due diligence, qualitative and quantitative analysis, and dedicated client reporting. 
+Our research was often published in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
 
-I have experience in the academy as Research Assistant, Teaching Assistant and Mentor/Grader for the CFA Institute GIRC competition. However, the highlight of my academic carrer was teaching two courses at Masters' level for Toulouse ESEC business school, Portfolio Management and Risk Management.
-Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/PM Syllabus.pdf).
+Prior to Insch, I was a Senior Financial Analyst for pension fund investments with DL Investment Partners in Zug, Switzerland. In that position I have performed manager selection, due diligence, qualitative and quantitative analysis, and dedicated client reporting. 
 
-I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering - FAME) from University of Lausanne, HEC, preceded by Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
-
-I am the founder of the [Ticino Management](https://www.linkedin.com/groups/2124184/) group on LinkedIn (2720 members). 
+In the academy, I have experience as Research Assistant, Teaching Assistant and Mentor/Grader in the CFA Institute GIRC competition. In 2010 I was invited to teach two Master courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
+(Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/PM Syllabus.pdf)).
