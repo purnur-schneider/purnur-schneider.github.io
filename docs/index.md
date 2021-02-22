@@ -1,5 +1,5 @@
 <img src="img/P_lowres.png" width=240px; style="float: left;margin-right: 10px"/>
-I just moved to Victoria BC, with a work permit, and I wish to re-enter the job market, after a break caused by my temporary stay in NY. 
+I just moved to Victoria BC, with a work permit, and I wish to re-enter the job market, after a break caused by my temporary stay in NY. During the break, I learned Python and took finance courses on Coursera ([here](courses.md)).  
 
 I have almost 15 years work experience, of which nine in the alternative investment sector. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
 
