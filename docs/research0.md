@@ -1,4 +1,4 @@
-Insch Capital Management produced and released research articles on a quasi-regular monthly basis. The non-comprehensive list below includes only the publications in external magazines, journals or online articles. Some of the articles may no longer be posted on the websites. Please contact me on [LinkedIn](https://www.linkedin.com/in/purnuragiacaischneider/) if you are interested in any particular article. 
+Insch Capital Management produced and released research articles on a regular basis. The non-comprehensive list below includes only the publications in magazines, journals, or online articles. Some of the articles may no longer be posted on the websites. Please contact me on [LinkedIn](https://www.linkedin.com/in/purnuragiacaischneider/) if you are interested in a particular article. 
 
 <!-- To do: add the missing links-->
 [Ticino Management, Jul-Aug.2016, "Trading Preziosi" (in Italian, page 99)](https://en.calameo.com/read/004279913462fa036e5a3)

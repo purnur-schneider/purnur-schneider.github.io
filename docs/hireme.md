@@ -1,18 +1,17 @@
 #### What I bring 
 
-- an understanding of investment products. With my technical background I should be able to understand products that I see for the first time, after proper examination
+- Knowledge of financial markets and products, portfolio management, analysis of financial statements and pension funds accounting from the CFA charter
 
-- experience with investment support (sourcing and testing investment ideas), with client relationships, with producing market research, and with communication, both internal and with clients    
+- Knowledge of risk management best practices and methods, from the FRM curriculum
 
-- knowledge of risk management best practices and methods from the FRM certifcation
+- Good understanding of investment products. My technical background allows me to understand and produce performance expectations for novel products
 
-- general knowledge of financial markets and products, portfolio management, analysis of financial statements and pension funds accounting from the CFA charter
+- Experience with investment support (sourcing and testing investment ideas), client relationships, producing market research, and with communication, both internal and with clients
 
-- highest ethical standards in dealing with the company and the clients (putting client interests first)
+- Highest ethical standards in dealing with the employer and the clients
 
 **I have skills, experience and integrity.** 
 
-I am available for employment starting in February 2021, when I shall move with my family to Victoria, BC, as my husband starts a Professor position with UVic. There, I wish to resume my career in finance after a break caused by my temporary move to the US. 
 
 <!-- #### Q&A
 
