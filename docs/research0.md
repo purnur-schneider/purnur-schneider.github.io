@@ -13,15 +13,13 @@ Insch Capital Management produced and released research articles on a regular ba
 [Futures and Options World, Feb.2013, “Is Libor a Trustworthy Index?”](http://www.fow.com/3103310/Purnur-and-Cruden-Is-Libor-a-trustworthy-index.html) 
 (subscription required)
 
-[FX Week Quarterly, Dec.2012-Feb.2013, "Responding to Change"](webdocs/FX Invest Quarterly Research - Responding to change.pdf)
-> Where we apply the Black-Litterman model to build a dynamic portfolio of trading strategies.
+[FX Week Quarterly, Dec.2012-Feb.2013, "Responding to Change"](webdocs/FX Invest Quarterly Research - Responding to change.pdf) (Where we apply the Black-Litterman model to build a dynamic portfolio of trading strategies)
 
-[Profit & Loss, Sep.2012, "The Swiss Emmentaler Trade: A Strategy with Holes"](webdocs/Profit_Loss_Insch EMMENTALER TRADE 2012.09.pdf)
-> Reported by Financial News, [“The currency mountain with more holes than a Swiss cheese”](webdocs/The currency mountain with more holes than a Swiss cheese.pdf)
+[Profit & Loss, Sep.2012, "The Swiss Emmentaler Trade: A Strategy with Holes"](webdocs/Profit_Loss_Insch EMMENTALER TRADE 2012.09.pdf) (Reported by Financial News, [“The currency mountain with more holes than a Swiss cheese”](webdocs/The currency mountain with more holes than a Swiss cheese.pdf))
 
 <!--[Global Money Management, Apr.2012, “Research Predicts Interest Rate Increase, Bond Losses”](webdocs/link?)-->
-[Hedge Fund Journal, Jun.2012, “A Response to Simon Lack. A defence of what hedge funds can offer investors”](webdocs/A Response to Simon Lack - HFJ.pdf)
-> We brought this topic to the attention of the AIMA Research Committee, who further developed it in their Aug.2012 paper, [“Methodological, mathematical and factual errors in ‘The Hedge Fund Mirage’”](https://twentythirdfloor.co.za/blog_files/wp-content/uploads/2012/07/aima_research_committee_paper_-_methodological_mathematical_and_factual_errors_in_the_hedge_fund_mirage_-_august_2012.pdf).
+[Hedge Fund Journal, Jun.2012, “A Response to Simon Lack. A defence of what hedge funds can offer investors”](webdocs/A Response to Simon Lack - HFJ.pdf).
+We brought this topic to the attention of the AIMA Research Committee, who further developed it in their Aug.2012 paper, [“Methodological, mathematical and factual errors in ‘The Hedge Fund Mirage’”](https://twentythirdfloor.co.za/blog_files/wp-content/uploads/2012/07/aima_research_committee_paper_-_methodological_mathematical_and_factual_errors_in_the_hedge_fund_mirage_-_august_2012.pdf).
 
 [Hedge Fund Journal, Dec.2011, "VAR: What Is It Really Good For?"](webdocs/TheHedgeFundJournalCommentary_InschQuantrend.pdf) 
 

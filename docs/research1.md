@@ -36,8 +36,8 @@ A trading strategy could aim to minimize the volatility drag by decreasing expos
 
 ### With DL Investment Partners 
 
-- I have performed Returns-Based-Style-Analysis, to track eventual style drift by individual foreign exchange managers. The results are however strongly affected by the choice of benchmarks for style. 
+- I have performed Returns-Based-Style-Analysis, to track eventual style drift by individual foreign exchange managers. The results are, however, strongly affected by the choice of style benchmarks. 
 
-- I have decomposed total portfolio variance to assess the individual contributions risk of individual asset managers. This decomposition leads to an easy and straightforward portfolio allocation among managers in a minimum risk portfolio, by equalizing the risk contributions across managers. 
+- I have calculated decompositions of total portfolio variance by individual contributions to risk of individual asset managers. These decompositions allow for the construction of straightforward minimum risk portfolios, by equalizing the risk contributions of individual managers.
 
-- I have written practical guides for using statistical measures such as Omega, Ljung-Box and Jarque-Bera, and F-tests.
+- I have written practical guides for using statistical measures such as Omega, Ljung-Box and Jarque-Bera tests, Chi-square and F-tests.

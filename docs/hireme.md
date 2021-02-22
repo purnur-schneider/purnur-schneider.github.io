@@ -1,6 +1,6 @@
 #### What I bring 
 
-- Knowledge of financial markets and products, portfolio management, analysis of financial statements and pension funds accounting from the CFA charter
+- Knowledge of financial markets and products, portfolio management, analysis of financial statements and pension funds accounting, from the CFA charter
 
 - Knowledge of risk management best practices and methods, from the FRM curriculum
 
