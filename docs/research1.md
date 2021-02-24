@@ -1,6 +1,6 @@
 ### With Insch Capital Management
 
-#### Asymmetric Deviation as a risk measure for a managed portfolio or strategy
+#### Asymmetric Deviation as a risk measure
 
 - Asymmetric Deviation was introduced by Insch Capital Management as an improvement to standard deviation. It multiplies standard deviation by the ratio between the downside deviation and the upside deviation of returns.
 ["A New Way to Measure Risk", Insch CM, Jan.2017](webdocs/Non-StandardDeviation_17_01.pdf)

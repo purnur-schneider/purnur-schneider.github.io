@@ -7,9 +7,13 @@ I published two of my Ph.D. term papers and research on SSRN:
 [Asset Pricing and the Consumption-Investment Allocation Under Robustness and Short Sales Constraints, Using Martingale Methods](https://ssrn.com/abstract=935033) (124 Downloads)
 > I thank my former colleague, Dr. Mesrop Janunts, for his recommendations.
 
-"Working in the Shadows: A Study on the Determinants of Labor Supply in the Informal Economy in Romania", CEU Master Thesis (http://www.econus.ma.ceu.hu/?q=node/5), June 2003
+CEU Master Thesis:
+
+["Working in the Shadows: A Study on the Determinants of Labor Supply in the Informal Economy in Romania"](http://www.econus.ma.ceu.hu/?q=node/5), June 2003
 > Thanks to my Labor Project and thesis supervisor, Prof. John Earle.
 > Also, belated thanks to my late colleague, Stano Vidovic, a brilliant mind and a great human. 
+
+Term Papers:
 
 "Who Fears Uncertainty?" – Accepted in the 33rd International Students Competition Symposium "Wings of Excellence Award", University of St. Gallen, May 2003
 

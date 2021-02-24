@@ -4,9 +4,9 @@
 
 - Knowledge of risk management best practices and methods, from the FRM curriculum
 
-- Good understanding of investment products. My technical background allows me to understand and produce performance expectations for novel products
+- Good understanding of investment products. My technical background allows me to understand and produce performance and risk expectations for novel products
 
-- Experience with investment support (sourcing and testing investment ideas), client relationships, producing market research, and with communication, both internal and with clients
+- Experience with investment support (sourcing and testing investment ideas), client relationships, market research, and with communication, both internal and with clients
 
 - Highest ethical standards in dealing with the employer and the clients
 

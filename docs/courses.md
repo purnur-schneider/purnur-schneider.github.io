@@ -7,17 +7,16 @@
 
 ["Economics of Money and Banking"](https://www.coursera.org/learn/money-banking), Perry G Mehrling, Columbia University (in progress)
 
-> I find this one of the most difficult topics in Economics. It's important, nevertheless, to understand how the gears' malfunctioning may lead to systemic crashes.
-
+> I find this one of the most difficult topics in Economics. It shines a light on the possibility of gears' malfunctioning that may lead to systemic crashes.
 
 
 ["Financial Markets"](https://www.coursera.org/learn/financial-markets-global), Robert Schiller, offered by Yale University on Coursera (finalised)
 
-> An introduction to risk management and behavioral finance principles to understand the functioning of securities, insurance, and banking industries.
+> An introduction to markets and behavioral finance principles, to better understand the functioning of securities, insurance, and banking industries.
 
 
 
-#### CFA Institute publications
+#### CFA Institute publications (restricted access)
 	
 - [Webinars](https://www.cfainstitute.org/en/events/webinars)
 	
@@ -26,5 +25,13 @@
 - [Research Foundation](https://www.cfainstitute.org/en/research/foundation/publications)
 
 #### On My Reading List
-- [Environmental, Social, and Governance Issues in Investing. A Guide for Investment Professionals](https://www.cfainstitute.org/-/media/documents/article/position-paper/esg-issues-in-investing-a-guide-for-investment-professionals.ashx)
+
 - [Behavioral Finance: The Second Generation](https://www.cfainstitute.org/en/research/foundation/2019/behavioral-finance-the-second-generation)
+
+- [Financial Market History: Reflections on the Past for Investors Today](https://www.cfainstitute.org/-/media/documents/book/rf-publication/2016/financial-market-history-full-book.ash)
+
+- [Environmental, Social, and Governance Issues in Investing. A Guide for Investment Professionals](https://www.cfainstitute.org/-/media/documents/article/position-paper/esg-issues-in-investing-a-guide-for-investment-professionals.ashx)
+
+- [The Future of Investment Management](https://www.cfainstitute.org/-/media/documents/book/rf-publication/2018/future-of-investment-management-kahn.ashx)
+
+- [BIS quarterly review](https://www.bis.org/quarterlyreviews/index.htm?m=5%7C25%7C699)

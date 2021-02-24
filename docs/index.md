@@ -1,5 +1,5 @@
 <img src="img/P_lowres.png" width=240px; style="float: left;margin-right: 10px"/>
-I just moved to Victoria BC, with a work permit, and I wish to resume my career in finance after a break caused by my temporary stay in NY. During the break, I homeschooled my kids, I learned Python, and I took refreshment courses in Finance on Coursera.  
+I have just arrived in Victoria BC, with a work permit, and I wish to resume my career in finance after a break caused by my temporary stay in NY. During the break, I homeschooled my kids, I learned Python, and I took refreshment courses in Finance on Coursera.  
 
 I have almost 15 years of work experience, of which nine in the alternative investment sector. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
 
@@ -12,5 +12,5 @@ Our research was often published in financial journals and magazines. [Here is a
 
 Prior to Insch, I was a Senior Financial Analyst for pension fund investments with DL Investment Partners in Zug, Switzerland. In that position, I have performed manager selection, due diligence, qualitative and quantitative analysis, and dedicated client reporting. 
 
-In the academy, I have experience as Research Assistant, Teaching Assistant, and Mentor/Grader in the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
+In the academy, I have experience as Research Assistant, Teaching Assistant, and Mentor/Grader for the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
 (Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/PM Syllabus.pdf)).
