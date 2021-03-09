@@ -1,18 +1,18 @@
 #### Online Courses
 
-[Valuation](http://pages.stern.nyu.edu/~adamodar/), Aswath Damodaran, New York University (in progress)
+[Valuation](http://pages.stern.nyu.edu/~adamodar/) by Aswath Damodaran, New York University (in progress)
 
 > About valuing and pricing small businesses and big ones, simple businesses and complex ones, young firms and those in distress.
 
 
-[Economics of Money and Banking](https://www.coursera.org/learn/money-banking), Perry G Mehrling, Columbia University (in progress)
+[Economics of Money and Banking](https://www.coursera.org/learn/money-banking) by Perry G Mehrling, Columbia University (in progress)
 
-> Probably the most difficult topics in Economics. It shines a light on the possibility of gears' malfunctioning that may lead to systemic crashes.
+> Probably the most difficult topics in Economics. It shines a light on the gears' malfunctioning that may lead to systemic crashes.
 
 
-[Financial Markets](https://www.coursera.org/learn/financial-markets-global), Robert Schiller, offered by Yale University on Coursera (finalised)
+[Financial Markets](https://www.coursera.org/learn/financial-markets-global) by Robert Schiller, Yale University (finalised)
 
-> An introduction to markets and behavioral finance principles, to better understand the functioning of securities, insurance, and banking industries.
+> An introduction to markets and behavioral finance principles, and more on the functioning of securities, insurance, and banking industries.
 
 
 [Financial Engineering and Risk Management Part II](https://www.coursera.org/learn/financial-engineering-2/home/welcome) by Columbia University (checking for updates)
