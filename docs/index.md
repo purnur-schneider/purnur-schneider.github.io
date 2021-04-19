@@ -10,7 +10,7 @@ In this role I coordinated research and reporting, prepared client presentations
 
 Our research was often published in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
 
-Prior to Insch, I was a Senior Financial Analyst for pension fund investments with DL Investment Partners in Zug, Switzerland. In that position, I have performed manager selection, due diligence, qualitative and quantitative analysis, and dedicated client reporting. 
+Prior, I was a Senior Financial Analyst with an asset advisor for public pension funds, DL Investment Partners, in Zug, Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and taylored client reporting. 
 
 In the academy, I have experience as Research Assistant, Teaching Assistant, and Mentor/Grader for the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
 (Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/PM Syllabus.pdf)).
