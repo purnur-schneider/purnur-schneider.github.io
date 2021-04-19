@@ -15,10 +15,14 @@
 > An introduction to markets and behavioral finance principles, and more on the functioning of securities, insurance, and banking industries.
 
 
-[Financial Engineering and Risk Management Part II](https://www.coursera.org/learn/financial-engineering-2/home/welcome) by Columbia University (checking for updates)
+[Financial Engineering and Risk Management Part II](https://www.coursera.org/learn/financial-engineering-2/home/welcome) by Columbia University 
 
+> Just checking for updates.
 
+[Financial Planning for Young Adults](https://www.coursera.org/learn/financial-planning/home/welcome)
+by University of Illinois at Urbana-Champaign
 
+> I'm interested in this topic as part of the Volunteering that I do with CFA Society Victoria, to deliver basic financial literacy to underserved persons. 
 
 #### CFA Institute publications (restricted access)
 	
