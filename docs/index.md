@@ -10,7 +10,9 @@ In this role I coordinated research and reporting, prepared client presentations
 
 Our research was often published in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
 
-Prior, I was a Senior Financial Analyst with an asset advisor for public pension funds, DL Investment Partners, in Zug, Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and taylored client reporting. 
+Prior, I was a Senior Financial Analyst with an investment advisor for public pension funds, DL Investment Partners, in Zug, Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and taylored client reporting. 
 
 In the academy, I have experience as Research Assistant, Teaching Assistant, and Mentor/Grader for the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
 (Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/PM Syllabus.pdf)).
+
+In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy project, an initiative aimed to help certain demographics that are underserved by professional financial advice. 
