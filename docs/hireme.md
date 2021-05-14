@@ -1,5 +1,24 @@
 #### What I bring 
 
+<!-- add tabs-->
+
+Personal skills: 
+
+- I am flexibile and versatile. I have worked in various kinds of environements, and performed a plethora of various tasks. 
+
+
+- I am dependable. I take initiative and undertake my projects with full responsibility and enthusiasm.
+ 
+
+- Collaborative. I will always lend an an ear or a helping hand, if it is in my capacit. 
+
+
+Hobbies: 
+
+
+
+Skills and Experience
+
 - Knowledge of financial markets and products, portfolio management, analysis of financial statements and pension funds accounting, from the CFA charter
 
 - Knowledge of risk management best practices and methods, from the FRM curriculum
@@ -10,10 +29,12 @@
 
 - Highest ethical standards in dealing with the employer and the clients
 
+
+
+<!-- 
 **I have skills, experience and integrity.** 
 
-
-<!-- #### Q&A
+#### Q&A
 
 1.How would you describe your approach to client service?
  

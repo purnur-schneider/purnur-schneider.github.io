@@ -50,7 +50,10 @@ extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
 nav:
   - About Me: index.md
-  - Why Should You Hire Me?: hireme.md
+  - Why Should You Work With Me?:
+    - Hard skills: hireme.md
+    - Soft skills: hireme.md
+    - Hobbies: hireme.md
   - Research:
       - Samples: research1.md
       - At Insch CM: research0.md

@@ -6,11 +6,11 @@ I have almost 15 years of work experience, of which nine in the alternative inve
 > You may download [my CV](webdocs/CV.pdf).
 
 My previous position was Head of Research with Insch Capital Management SA, in Lugano, Switzerland.
-In this role I coordinated research and reporting, prepared client presentations and marketing materials, back-tested investment ideas, built trading strategies, performed NAV reconciliation, client support, and performance/risk analysis.
+In this role, I coordinated research and reporting, prepared client presentations and marketing materials, back-tested investment ideas, built trading strategies, performed NAV reconciliation, client support, and performance/risk analysis.
 
 Our research was often published in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
 
-Prior, I was a Senior Financial Analyst with an investment advisor for public pension funds, DL Investment Partners, in Zug, Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and taylored client reporting. 
+Prior, I was a Senior Financial Analyst with an investment advisor for public pension funds, DL Investment Partners, in Zug, Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and tailored client reporting. 
 
 In the academy, I have experience as Research Assistant, Teaching Assistant, and Mentor/Grader for the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
 (Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/PM Syllabus.pdf)).
