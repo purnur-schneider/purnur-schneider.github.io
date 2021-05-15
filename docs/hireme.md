@@ -4,17 +4,16 @@
 
 Personal skills: 
 
-- I am flexibile and versatile. I have worked in various kinds of environements, and performed a plethora of various tasks. 
-
-
-- I am dependable. I take initiative and undertake my projects with full responsibility and enthusiasm.
- 
-
-- Collaborative. I will always lend an an ear or a helping hand, if it is in my capacit. 
+- Flexibile and versatile. I have worked in various kinds of environements, and performed a plethora of various tasks. 
+- Dependable. I take initiative and undertake my projects with full responsibility and enthusiasm. 
+- Collaborative. I will always try to lend an ear or a helping hand, if in my capacity. 
+- Hard worker and always willing to learn new things.
 
 
 Hobbies: 
-
+- Hiking
+- Reading 
+- Singing
 
 
 Skills and Experience
