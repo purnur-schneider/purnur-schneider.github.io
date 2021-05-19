@@ -1,5 +1,4 @@
-#### Skills and Experience
-
+<!-- #### Skills and Experience -->
 - Knowledge of financial markets and products, portfolio management, analysis of financial statements and pension funds accounting, from the CFA charter
 
 - Knowledge of risk management best practices and tools, from the FRM curriculum
