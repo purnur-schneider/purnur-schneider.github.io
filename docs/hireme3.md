@@ -1,0 +1,4 @@
+#### Hobbies: 
+- Hiking
+- Reading 
+- Singing

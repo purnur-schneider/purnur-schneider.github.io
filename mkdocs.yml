@@ -51,9 +51,9 @@ extra_javascript:
 nav:
   - About Me: index.md
   - Why Should You Work With Me?:
-    - Hard skills: hireme.md
-    - Soft skills: hireme.md
-    - Hobbies: hireme.md
+    - Financial Analysis skills: hireme1.md
+    - Personal skills: hireme2.md
+    - Hobbies: hireme3.md
   - Research:
       - Samples: research1.md
       - At Insch CM: research0.md
