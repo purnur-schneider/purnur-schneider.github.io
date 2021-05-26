@@ -1,5 +1,5 @@
 <img src="img/P_lowres.png" width=240px; style="float: left;margin-right: 10px"/>
-I have just arrived in Victoria BC, with a work permit, and I wish to resume my career in finance after a break caused by my temporary stay in NY. During the break, I homeschooled my kids, I learned Python, and I took refreshment courses in Finance on Coursera.  
+I have just arrived in Victoria BC, with a work permit, and I wish to resume my career in finance after a break caused by my temporary stay in NY. During the break, I homeschooled my kids, I learned Python, and I took refreshment courses in Finance on Coursera. In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
 
 I have almost 15 years of work experience, of which nine in the alternative investment sector. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
 
@@ -14,5 +14,3 @@ Prior, I was a Senior Financial Analyst with an investment advisor for public pe
 
 In the academy, I have experience as Research Assistant, Teaching Assistant, and Mentor/Grader for the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
 (Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/RM Syllabus.pdf)).
-
-In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy project, an initiative aimed to help certain demographics that are underserved by professional financial advice. 
