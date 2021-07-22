@@ -1,5 +1,7 @@
 <img src="img/P_lowres2.png" width=240px; style="float: left;margin-right: 10px"/>
-I have a work permit for BC and I look forward to resume my career in finance that was interrupted by my temporary stay in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
+I have a work permit for BC and I look forward to resume my career in finance that was interrupted by my temporary stay in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
+
+In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
 
 I have almost 15 years of work experience, of which nine in the alternative investment sector, four in accounting, and two in academics. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
 
