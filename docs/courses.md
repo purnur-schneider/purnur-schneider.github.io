@@ -1,4 +1,7 @@
 #### Online Courses
+[Introduction to Portfolio Construction and Analysis with Python](https://www.coursera.org/learn/introduction-portfolio-construction-python/home/welcome) by EDHEC Business School (in progress)
+
+> To improve my Python skills through practical financial applications. 
 
 [Valuation](http://pages.stern.nyu.edu/~adamodar/) by Aswath Damodaran, New York University (in progress)
 
@@ -7,7 +10,7 @@
 
 [Economics of Money and Banking](https://www.coursera.org/learn/money-banking) by Perry G Mehrling, Columbia University (in progress)
 
-> Probably the most difficult topics in Economics. It shines a light on the gears' malfunctioning that may lead to systemic crashes.
+> Probably the most difficult topics in Economics. Mehrling provides the most down-to-earth explanation of bubbles and market crashes.
 
 
 [Financial Markets](https://www.coursera.org/learn/financial-markets-global) by Robert Schiller, Yale University (finalised)
