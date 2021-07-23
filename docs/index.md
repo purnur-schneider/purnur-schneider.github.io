@@ -1,5 +1,5 @@
 <img src="img/P_lowres1.png" width=240px; style="float: left;margin-right: 10px"/>
-I have a work permit for BC and I look forward to resume my career in finance that was interrupted by my temporary stay in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
+I have a work permit for BC and I look forward to resume my career in finance, after a 4 year stay with my family in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
 
 In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
 
