@@ -1,9 +1,9 @@
-<img src="img/P_lowres1.png" width=240px; style="float: left;margin-right: 10px"/>
-I have a work permit for BC and I look forward to resuming my career in finance, after an almost 4-year stay with my family in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
+<img src="img/P_lowres1.png" width=300px; style="float: left;margin-right: 10px"/>
+I am an experienced and knowledgeable Financial Analyst with an interest in Risk Management. I have a work permit for BC and I look forward to resuming my career in finance, after an almost 4-year stay with my family in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
 
 In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy Project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
 
-I have almost 15 years of work experience, of which nine in the alternative investment sector, four in accounting, and two in academics. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from UPF, Barcelona, and CEU, Budapest. 
+My work experience includes nine year of experience in the alternative investment sector, four years in accounting, and two years in academics. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from UPF, Barcelona, and CEU, Budapest. 
 
 > You may download [my CV](webdocs/CV.pdf).
 
