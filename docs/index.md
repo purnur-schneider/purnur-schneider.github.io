@@ -3,7 +3,7 @@ I am an experienced and knowledgeable Financial Analyst with a working interest 
 
 In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy Project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
 
-My work experience includes nine years in the alternative investment sector, four years in accounting, and two years in academics. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from UPF, Barcelona, and CEU, Budapest. 
+My work experience includes nine years in the alternative investment sector, four years in accounting, and two years in academics. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest. 
 
 > You may download [my CV](webdocs/CV.pdf).
 
