@@ -1,7 +1,7 @@
 ### Fun Stuff
 
 - The impact of COVID Vaccination on hospitalizations and deaths - data from France, DREES.
-["COVID Vaccination Findings based on DREES research", Sep.2021](webdocs/COVID Vaccination Findings.pdf)
+["COVID Vaccination Findings based on DREES research", Sep.2021](webdocs/COVIDVaccinationFindings.pdf)
 
 
 ### With Insch Capital Management
