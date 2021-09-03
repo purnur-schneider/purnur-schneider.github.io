@@ -1,7 +1,7 @@
 ### Fun Stuff
 
 - The impact of COVID Vaccination on hospitalizations and deaths - data from France, DREES.
-["COVID Vaccination Findings based on DREES research", Sep.2021](webdocs/COVID Vaccination Findings based on DREES research.pdf)
+["COVID Vaccination Findings based on DREES research"](webdocs/COVID Vaccination Findings based on DREES research.pdf)
 
 
 ### With Insch Capital Management
@@ -46,4 +46,4 @@ A trading strategy could aim to minimize the volatility drag by decreasing expos
 
 - I have calculated decompositions of total portfolio variance by individual contributions to risk of individual asset managers. These decompositions allow for the construction of straightforward minimum risk portfolios, by equalizing the risk contributions of individual managers.
 
-- I have written practical guides for using statistical measures such as Omega, Ljung-Box and Jarque-Bera tests, Chi-square and F-tests.
+- I have written practical guides for using statistical measures such as [Omega](webdocs/Omega in practice.pdf), [Ljung-Box](webdocs/Ljung Box test - practical guide.pdf), [Jarque-Bera](webdocs/Jarque-Bera test - practical guide.pdf), Chi-square, and F-tests.
