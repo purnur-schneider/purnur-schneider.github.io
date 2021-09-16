@@ -1,5 +1,5 @@
 <img src="img/P_lowres1.png" width=300px; style="float: left;margin-right: 10px"/>
-I am an experienced and knowledgeable Financial Analyst with a working interest in Risk Management. I have a work permit for BC and I look forward to resuming my career in finance, after an almost 4-year stay with my family in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
+I am an experienced and knowledgeable Financial Analyst with a passion for research and a work interest in Risk Management. I have a work permit for BC and I look forward to resuming my career in finance, after an almost 4-year stay with my family in NY. While unemployed, I homeschooled my kids, I learned Python, and I attended online courses in Finance. 
 
 In March 2021, I started to volunteer at the CFA Society Victoria for the Financial Literacy Project, an initiative aimed to help certain demographics that are underserved by professional financial advice.  
 
