@@ -11,7 +11,7 @@ My last full-time position was Head of Research with Insch Capital Management SA
 
 Our research was often published in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
 
-Before that, I was a Senior Financial Analyst with DL Investment Partners, an investment advisor for public pension funds, in Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and tailored client reporting. 
+Prior to that, I was a Senior Financial Analyst with DL Investment Partners, an investment advisor for public pension funds, in Switzerland. In that position, I performed manager selection, due diligence, qualitative and quantitative analysis, NAV reconciliation, and tailored client reporting. 
 
 I have additional experience as Teaching/Research Assistant, and Mentor/Grader for the CFA Institute GIRC competition. In 2010 I was invited to teach two Masters' courses at Toulouse ESEC Business School - Portfolio Management and Risk Management.
 (Syllaby [here](webdocs/PM Syllabus.pdf) and [here](webdocs/RM Syllabus.pdf)).

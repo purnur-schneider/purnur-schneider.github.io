@@ -1,4 +1,4 @@
-### Fun Stuff
+### What keeps me up...
 
 - The impact of COVID Vaccination on hospitalizations and deaths - data from France, DREES.
 ["COVID Vaccination Findings based on DREES research", Sep.2021](webdocs/COVIDVaccinationFindings.pdf)
