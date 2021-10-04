@@ -21,7 +21,7 @@ The Omega measure provides a way to describe the holistic distribution of perfor
 
 <img src="../img/LogOmega.png" width=350px; style="float: left;margin-right: 10px"/>
 
-The log-Omega curve has useful properties:
+This log-Omega plot has useful properties:
 
 - it crosses the vertical axis at the mean of the distribution;
 
@@ -30,6 +30,7 @@ The log-Omega curve has useful properties:
 - larger odd moments (such as skewness) also lead to higher curves;
 
 - higher variances are reflected in steeper slopes.
+
 
 #### Volatility Drag
 
