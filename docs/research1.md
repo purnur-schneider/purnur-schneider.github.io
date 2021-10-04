@@ -17,11 +17,15 @@
 
 #### Omega measure based on the Kernel Distribution
 
-The Omega measure provides a way to describe the holistic distribution of performance for any kind of strategy or benchmark. At Insch, we calculated Omega in the logarithmic form and on the kernel distribution of returns, to obtain smoother results while considering every observation as just an outcome of a random event. In addition, by inverting the axes of the usual Omega graph we obtained a more intuitive view of the performance domain. All these alterations enable easier comparisons between various investments' performances.
+The Omega measure provides a way to describe the holistic distribution of performance for any kind of strategy or benchmark. At Insch, we calculated Omega in the logarithmic form on the kernel distribution of returns, to smooth results while considering every observation an outcome of a random event. In addition, by inverting the axes of the usual Omega graph we obtained a more intuitive view of the performance domain. All these alterations enable easier comparisons between various investments' performances.
 
 <img src="../img/LogOmega.png" width=350px;/>
 
-
+The log-Omega curve has useful properties: 
+- it crosses the vertical axis at the mean of the distribution;
+- for similar variances, higher curve position is associated with higher returns; 
+- larger odd moments (such as skewness) also lead to higher curves;
+- higher variances are reflected in steeper slopes.
 
 #### Volatility Drag
 
