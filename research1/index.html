@@ -601,8 +601,13 @@
 </li>
 </ul>
 <h4 id="omega-measure-based-on-the-kernel-distribution">Omega measure based on the Kernel Distribution<a class="headerlink" href="#omega-measure-based-on-the-kernel-distribution" title="Permanent link">&para;</a></h4>
-<p>The Omega measure provides a way to describe the holistic distribution of performance for any kind of strategy or benchmark. At Insch, we calculated Omega in the logarithmic form and on the kernel distribution of returns, to obtain smoother results while considering every observation as just an outcome of a random event. In addition, by inverting the axes of the usual Omega graph we obtained a more intuitive view of the performance domain. All these alterations enable easier comparisons between various investments&rsquo; performances.</p>
+<p>The Omega measure provides a way to describe the holistic distribution of performance for any kind of strategy or benchmark. At Insch, we calculated Omega in the logarithmic form on the kernel distribution of returns, to smooth results while considering every observation an outcome of a random event. In addition, by inverting the axes of the usual Omega graph we obtained a more intuitive view of the performance domain. All these alterations enable easier comparisons between various investments&rsquo; performances.</p>
 <p><img src="../img/LogOmega.png" width=350px;/></p>
+<p>The log-Omega curve has useful properties: 
+- it crosses the vertical axis at the mean of the distribution;
+- for similar variances, higher curve position is associated with higher returns; 
+- larger odd moments (such as skewness) also lead to higher curves;
+- higher variances are reflected in steeper slopes.</p>
 <h4 id="volatility-drag">Volatility Drag<a class="headerlink" href="#volatility-drag" title="Permanent link">&para;</a></h4>
 <p>It is the negative impact of compounding volatile returns on the total return of a strategy. </p>
 <p>Consider two investments, one risk-free and one risky, over two time periods. Say the risky investment yields returns <span><span class="MathJax_Preview">r_1</span><script type="math/tex">r_1</script></span> in the first period and a different <span><span class="MathJax_Preview">r_2</span><script type="math/tex">r_2</script></span> in the second period. Also, assume the risk-free investment yields a constant return <span><span class="MathJax_Preview">r</span><script type="math/tex">r</script></span> equal to the average of the risky investment returns. 
