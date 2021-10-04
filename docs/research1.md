@@ -21,9 +21,9 @@ The Omega measure provides a way to describe the holistic distribution of perfor
 
 <img src="../img/LogOmega.png" width=350px; style="float: left;margin-right: 10px"/>
 
-This log-Omega plot has useful properties:
+This inverted plot (with log-Omega in descending order on the x-axis) has useful properties:
 
-- it crosses the vertical axis at the mean of the distribution;
+- it crosses the y-axis at the mean of the returns' distribution;
 
 - for similar variances, higher curve position is associated with higher returns; 
 
