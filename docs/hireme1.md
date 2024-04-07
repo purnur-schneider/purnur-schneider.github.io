@@ -9,10 +9,10 @@
 
 - Highest ethical standards in dealing with the employer and the clients.-->
 
-My expertise includes a deep understanding of financial markets and products, portfolio management, analysis of financial statements, and pension funds accounting, which I gained through my CFA charter. My FRM certification has equipped me with additional knowledge of risk management best practices and tools.
+- Financial expertise. I have a deep understanding of financial markets and products, portfolio management, analysis of financial statements, and pension funds accounting, which I gained through my CFA charter. My FRM certification has equipped me with additional knowledge of risk management best practices and tools.
 
-My well-rounded experiences in investment management includ sourcing and testing investment ideas, client relationship management, market research, delivering presentaions and communicating results.
+- Well-rounded experience in investment management, including sourcing and testing investment ideas, client relationship management, market research, delivering presentations and communicating results.
 
-My analytical background enables me to understand and produce performance and risk expectations for complex and novel securities, giving me a solid grasp of various investment products. 
+- Analytical background, which enables me to understand and produce performance and risk expectations for complex and novel securities, giving me the possibility to explore various investment products. My strongest skill-set is in statistics.
 
-Finally I hold myself to the highest ethical standards in all aspects of my work, whether dealing with my employer or clients. This unwavering commitment to ethics ensures that I approach every investment opportunity with integrity and professionalism.
+- Unwavering commitment to ethics. I hold myself to the highest ethical standards in all aspects of my work, whether dealing with my employer or clients. This  ensures that I approach every investment opportunity with integrity and professionalism.
