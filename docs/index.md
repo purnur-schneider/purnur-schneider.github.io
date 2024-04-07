@@ -1,7 +1,15 @@
 <img src="img/P_lowres1.png" width=300px; style="float: left;margin-right: 10px"/>
 
+I am an experienced Financial Analyst with a passion for research, performance analysis, and risk management. With over 15 years of professional experience in finance, including roles in alternative investments, accounting, and academics, I bring a wealth of knowledge and expertise. I hold a Master's degree in Finance from the University of Lausanne, HEC, and Master's degrees in Economics from University Pompeu Fabra and Central European University.
 
-As an experienced Financial Analyst with a passion for research, performance analysis, and risk management, I bring a wealth of knowledge and expertise to the table. 
+> You may download [my CV](webdocs/CV.pdf).
+
+In my previous roles, such as Acting Associate at BCI Investment Management and Head of Research at Insch Capital Management SA, I gained extensive knowledge of investment procedures, performance reporting, risk management, and client service. I also have experience in teaching and research assistantship in academia, where I taught courses on portfolio management and risk management.
+
+Currently, I am volunteering at the CFA Society Victoria for the Financial Literacy Project, providing financial advice to underserved demographics. Overall, my experience and skills make me well-equipped to excel in the field of financial analysis, and I am excited to use my expertise and expand my knowledge in new and challenging roles.
+
+
+<!--As an experienced Financial Analyst with a passion for research, performance analysis, and risk management, I bring a wealth of knowledge and expertise to the table. 
 
 
 I have over fifteen years of professional experience in various roles within the financial industry. This includes nine years in the alternative investment sector, four years in accounting, and two years in academics. I hold a Master of Advanced Studies in Finance (Financial Assets Management and Engineering) from the University of Lausanne, HEC, and Master’s degrees in Economics from University Pompeu Fabra, Barcelona, and Central European University, Budapest.
@@ -9,7 +17,7 @@ I have over fifteen years of professional experience in various roles within the
 > You may download [my CV](webdocs/CV.pdf).
 
 
-As an Acting Associate, Performance & Analytics with BCI Investment Management, I gained extensive knowledge of the company's investments and procedures, deepened my understanding of performance reporting and reconciliation, and became proficient in SCD, as well as familiar with PBI and PowerQuery. As an Acting Analyst - Public Markets Risk Management, I was primarily responsible for creating a dashboard for fixed income risk reporting and working on ad-hoc projects related to market risk exposures and the impact of interest rates on FI products. 
+As an Acting Associate, Performance & Analytics with BCI Investment Management, I gained extensive knowledge of the company's investments and procedures, deepened my understanding of performance reporting and reconciliation, and became proficient in SCD, as well as familiar with PBI and PowerQuery. As an Acting Analyst - Public Markets Risk Management, I was part of the team effort of creating a dashboard for fixed income risk reporting and working on ad-hoc projects related to market risk exposures and the impact of interest rates on FI products. 
 
 As Head of Research with Insch Capital Management SA in Switzerland I coordinated market research, performance, and risk reporting, prepared client presentations and marketing materials, back-tested investment ideas, built trading strategies, performed NAV reconciliation, client service, and operations. Our research was often published in financial journals and magazines. [Here is a non-comprehensive list of our publications.](research0.md)  
 
