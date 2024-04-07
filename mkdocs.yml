@@ -3,7 +3,7 @@ site_url: "https://purnur-schneider.github.io"
 site_description: "My personal page"
 # strict: true
 docs_dir: "docs"
-remote_branch: "master"
+remote_branch: "main"
 theme:
   name: material
   palette:
