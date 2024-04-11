@@ -50,10 +50,6 @@ extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
 nav:
   - About Me: index.md
-  - Work With Me:
-    - Financial Analysis skills: hireme1.md
-    - Personal skills: hireme2.md
-    # - Hobbies: hireme3.md
   - Research:
       - Samples: research1.md
       - At Insch CM: research0.md
@@ -67,4 +63,8 @@ nav:
           - AR(2) for Short Interest Rates: AR(2) model.html
           - Square-Root Diffusion (in progress): Square-Root Diffusion.html
           - Stochastic Volatility Model: Stochastic Volatility.html
-
+- Work With Me:
+    - Financial Analysis skills: hireme1.md
+    - Personal skills: hireme2.md
+    # - Hobbies: hireme3.md
+  
