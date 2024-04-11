@@ -1,9 +1,11 @@
 ### What keeps me up...
 
 - Early in the COVID pandemic, I used the Bayes theorem to assess the probabilites of succumbing to the disease, conditional on the infected person's gender.
+
 ["Bayes Theorem applied to predict conditional mortality rates", Apr.2020](webdocs/BayesTheoremandCOVID.pdf)
 
 - Comments on the impact of COVID Vaccination on hospitalizations and deaths data from France, DREES.
+
 ["COVID Vaccination Findings based on DREES research", Sep.2021](webdocs/COVIDVaccinationFindings.pdf)
 
 
@@ -12,9 +14,11 @@
 #### Asymmetric Deviation as a risk measure
 
 - Asymmetric Deviation was introduced by Insch Capital Management as an improvement to standard deviation. It multiplies standard deviation by the ratio between the downside deviation and the upside deviation of returns.
+
 ["A New Way to Measure Risk", Insch CM, Jan.2017](webdocs/Non-StandardDeviation_17_01.pdf)
 
 - We showed that Asymmetric Deviation can successfully replace standard deviation in building optimal (minimum risk) portfolios. 
+
 ["The True Deviation of Returns and Portfolio Optimization, Insch CM, Feb.2017"](webdocs/TDandMinRiskPortfolios17_02.pdf)
 
 

@@ -1,4 +1,4 @@
-<img src="img/P_lowres1.png" width=300px; style="float: left;margin-right: 10px"/>
+<img src="img/purnur.png" width=300px; style="float: left;margin-right: 10px"/>
 
 I am an experienced Financial Analyst with a passion for research, performance analysis, and risk management. With over 15 years of professional experience in finance, including roles in alternative investments, accounting, and academics, I bring a wealth of knowledge and expertise in the financial industry. I hold a Master's degree in Finance from the University of Lausanne, HEC, and Master's degrees in Economics from University Pompeu Fabra and Central European University.
 
