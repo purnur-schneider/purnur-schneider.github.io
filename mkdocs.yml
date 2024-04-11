@@ -63,8 +63,8 @@ nav:
           - AR(2) for Short Interest Rates: AR(2) model.html
           - Square-Root Diffusion (in progress): Square-Root Diffusion.html
           - Stochastic Volatility Model: Stochastic Volatility.html
-- Work With Me:
-    - Financial Analysis skills: hireme1.md
-    - Personal skills: hireme2.md
-    # - Hobbies: hireme3.md
+  - Work With Me:
+      - Financial Analysis skills: hireme1.md
+      - Personal skills: hireme2.md
+      # - Hobbies: hireme3.md
   
