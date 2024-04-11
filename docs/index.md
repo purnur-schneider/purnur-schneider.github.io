@@ -4,9 +4,13 @@ I am an experienced Financial Analyst with a passion for research, performance a
 
 <!-- *You may download [my CV](webdocs/CV.pdf)*. -->
 
-In my previous roles, such as Acting Associate at BCI Investment Management and Head of Research at Insch Capital Management SA, I gained extensive knowledge of investment procedures, performance reporting, risk management, and client service. I also have experience in teaching and research assistantship in academia, where I taught and assisted courses on financial mathematics, portfolio management, and risk management.
+In my previous roles, such as Acting Associate at BCI Investment Management and Head of Research at Insch Capital Management SA, I gained extensive knowledge of investment procedures, performance reporting, risk management, and client service. 
 
-Currently, I am volunteering at the CFA Society Victoria for the Financial Literacy Project, providing financial advice to underserved demographics. Overall, my experience and skills make me well-equipped to excel in the field of financial analysis, and I am excited to use my expertise and expand my knowledge in new and challenging roles.
+I also have experience in teaching and research assistantship in academia, where I taught and assisted courses on financial mathematics, portfolio management, and risk management.
+
+Currently, I am volunteering at the CFA Society Victoria for the Financial Literacy Project, providing financial advice to underserved demographics. So far, we have delivered 7 workshops, most notably at Anawim House and Inter-Cultural Association of Victoria.    
+
+Overall, my experience and skills make me well-equipped to excel in the field of financial analysis. I am excited to use my expertise and expand my knowledge in new and challenging roles.
 
 
 <!--As an experienced Financial Analyst with a passion for research, performance analysis, and risk management, I bring a wealth of knowledge and expertise to the table. 
