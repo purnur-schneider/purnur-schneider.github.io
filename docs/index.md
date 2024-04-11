@@ -1,14 +1,14 @@
 <img src="img/P_lowres2.png" width=300px; style="float: left;margin-right: 10px"/>
 
-I am an experienced Financial Analyst with a passion for research, performance analysis, and risk management. With over 15 years of professional experience in finance, including roles in alternative investments, accounting, and academics, I bring a wealth of knowledge and expertise in the financial industry. I hold a Master's degree in Finance from the University of Lausanne, HEC, and Master's degrees in Economics from University Pompeu Fabra and Central European University.
+I'm an experienced Financial Analyst with a passion for research, performance analysis, and risk management. With over 15 years of professional experience in finance, including roles in alternative investments, accounting, and academics, I bring a wealth of knowledge and expertise in the financial industry. I hold a Master's degree in Finance from the University of Lausanne, HEC, and Master's degrees in Economics from University Pompeu Fabra and Central European University.
 
 <!-- *You may download [my CV](webdocs/CV.pdf)*. -->
 
 In my previous roles, such as Acting Associate at BCI Investment Management and Head of Research at Insch Capital Management SA, I gained extensive knowledge of investment procedures, performance reporting, risk management, and client service. I also have experience in accounting and in academia, where I taught and assisted courses on financial mathematics, portfolio management, and risk management.
 
-Currently, I am volunteering at the CFA Society Victoria for the Financial Literacy Project, providing financial advice to underserved demographics. So far, we have delivered 7 workshops, most notably at Anawim House and Inter-Cultural Association of Victoria.    
+Currently, I volunteer at the CFA Society Victoria for the Financial Literacy Project, providing financial advice to underserved demographics. So far, we have delivered 7 workshops, most notably at Anawim House and Inter-Cultural Association of Greater Victoria.    
 
-Overall, my experience and skills make me well-equipped to excel in the field of financial analysis. I am excited to use my expertise and expand my knowledge in new and challenging roles.
+I'm well-equipped to excel in the financial industry, and I look forward to using my expertise and expanding my knowledge in new and challenging roles.
 
 
 <!--As an experienced Financial Analyst with a passion for research, performance analysis, and risk management, I bring a wealth of knowledge and expertise to the table. 
