@@ -1,6 +1,9 @@
 ### What keeps me up...
 
-- The impact of COVID Vaccination on hospitalizations and deaths - data from France, DREES.
+- Early in the COVID pandemic, I used the Bayes theorem to assess the probabilites of succumbing to the disease, conditional on the infected person's gender.
+["Bayes Theorem applied to predict conditional mortality rates", Apr.2020](webdocs/BayesTheoremandCOVID.pdf)
+
+- Comments on the impact of COVID Vaccination on hospitalizations and deaths data from France, DREES.
 ["COVID Vaccination Findings based on DREES research", Sep.2021](webdocs/COVIDVaccinationFindings.pdf)
 
 
