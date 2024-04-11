@@ -1,6 +1,6 @@
 ### What keeps me up...
 
-- Early in the COVID pandemic, I used the Bayes theorem to assess the probabilites of succumbing to the disease, conditional on the infected person's gender.
+- Early in the COVID pandemic, I used the Bayes theorem to assess the likelihood of succumbing to the disease, conditional on the infected person's gender.
 
 ["Bayes Theorem applied to predict conditional mortality rates", Apr.2020](webdocs/BayesTheoremandCOVID.pdf)
 
